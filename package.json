@@ -21,6 +21,7 @@
     "dependencies": {
         "chart.js": "^4.5.1",
         "lucide-vue-next": "^0.574.0",
-        "vue-chartjs": "^5.3.3"
+        "vue-chartjs": "^5.3.3",
+        "ziggy-js": "^2.6.1"
     }
 }
